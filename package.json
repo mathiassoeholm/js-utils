@@ -1,0 +1,14 @@
+{
+  "name": "@mathiassoeholm/js-utils",
+  "version": "1.0.0",
+  "description": "A small library of JavaScript/TypeScript utilities, t",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "author": "Mathias Soeholm",
+  "license": "ISC"
+}
