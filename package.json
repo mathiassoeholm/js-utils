@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "A small library of JavaScript/TypeScript utilities",
   "repository": "https://github.com/mathiassoeholm/js-utils",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest"
   },
