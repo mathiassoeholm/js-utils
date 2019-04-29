@@ -1,9 +1,8 @@
 {
   "name": "@mathiassoeholm/js-utils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A small library of JavaScript/TypeScript utilities",
   "repository": "https://github.com/mathiassoeholm/js-utils",
-  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest"
