@@ -1,0 +1,6 @@
+{
+  "name": "@mathiassoeholm/js-utils/async",
+  "private": true,
+  "main": "../lib/async",
+  "types": "../lib/index"
+}
