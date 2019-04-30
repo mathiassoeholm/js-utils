@@ -1,6 +1,6 @@
 {
   "name": "@mathiassoeholm/js-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A small library of JavaScript/TypeScript utilities",
   "repository": "https://github.com/mathiassoeholm/js-utils",
   "main": "lib/index",
