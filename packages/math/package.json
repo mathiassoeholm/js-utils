@@ -1,6 +1,6 @@
 {
   "name": "@mathiassoeholm/js-utils/math",
   "private": true,
-  "main": "../lib/math",
-  "types": "../lib/math"
+  "main": "../../lib/math",
+  "types": "../../lib/math"
 }
