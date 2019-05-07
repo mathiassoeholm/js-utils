@@ -1,5 +1,5 @@
-import * as async from './async'
+import * as async from '../packages/async/async'
 export { async }
 
-import * as math from './math'
+import * as math from '../packages/math/math'
 export { math }
