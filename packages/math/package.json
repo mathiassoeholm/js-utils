@@ -1,6 +1,0 @@
-{
-  "name": "@mathiassoeholm/js-utils/math",
-  "private": true,
-  "main": "./math",
-  "types": "./math"
-}

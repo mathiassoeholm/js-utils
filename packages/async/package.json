@@ -1,6 +1,0 @@
-{
-  "name": "@mathiassoeholm/js-utils/async",
-  "private": true,
-  "main": "./async",
-  "types": "./async"
-}

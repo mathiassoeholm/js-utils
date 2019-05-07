@@ -1,0 +1,6 @@
+{
+  "name": "async",
+  "private": true,
+  "main": "./index",
+  "types": "./index"
+}
