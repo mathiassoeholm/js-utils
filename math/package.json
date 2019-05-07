@@ -1,6 +1,6 @@
 {
   "name": "math",
   "private": true,
-  "main": "./index",
-  "types": "./index"
+  "main": "../lib/math",
+  "types": "../lib/math"
 }

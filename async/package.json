@@ -1,6 +1,6 @@
 {
   "name": "async",
   "private": true,
-  "main": "./index",
-  "types": "./index"
+  "main": "../lib/async",
+  "types": "../lib/async"
 }
