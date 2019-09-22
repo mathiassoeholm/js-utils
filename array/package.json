@@ -1,0 +1,6 @@
+{
+  "name": "array",
+  "private": true,
+  "main": "../lib/array",
+  "types": "../lib/array"
+}
