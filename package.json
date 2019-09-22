@@ -2,6 +2,8 @@
   "name": "@mathiassoeholm/js-utils",
   "version": "1.0.10",
   "description": "A small library of JavaScript/TypeScript utilities",
+  "author": "Mathias Soeholm",
+  "license": "ISC",
   "repository": "https://github.com/mathiassoeholm/js-utils",
   "main": "lib/index",
   "types": "lib/index",
@@ -13,6 +15,13 @@
     "utils",
     "utilities"
   ],
-  "author": "Mathias Soeholm",
-  "license": "ISC"
+  "files": [
+    "README.md",
+    "LICENSE",
+    "/lib",
+    "/src"
+  ],
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  }
 }
